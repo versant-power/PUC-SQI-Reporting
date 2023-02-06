@@ -1,0 +1,6 @@
+log/
+output/
+.env
+*.py
+*.txt
+*.xlsx
